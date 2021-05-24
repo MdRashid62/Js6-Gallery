@@ -1,4 +1,4 @@
 # Js6-Gallery
-Modern Gallery With JS6 00000
+Modern Gallery With JS6 0000
 
 ![](example/preview.png)
